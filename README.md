@@ -35,5 +35,5 @@
     -   Nhiệm vụ chính của bài toán: Xác định mối tương quan về mặt thị giác trong hình ảnh, tức không chỉ phát hiện vị trí của cả người và vật thể trong hình mà còn suy ra các tương tác giữa chúng (ví dụ “người lái xe hơi”).
     -   Đồ án này vận dụng các kỹ thuật từ môn học Tư duy tính toán (Decomposition, Pattern Recognition, Abstraction) nhằm nhận diện, phân tích và khảo sát hướng giải quyết cho bài toán HOI Detection nêu trên
 
-## POSTER PRESENTATION for POSTER SESSION
+## POSTER PRESENTATION 
 <img align="center" src="./Poster_Fullsize.jpg">
