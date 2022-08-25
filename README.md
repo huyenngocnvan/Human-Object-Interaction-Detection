@@ -36,5 +36,4 @@
     -   Đồ án này vận dụng các kỹ thuật từ môn học Tư duy tính toán (Decomposition, Pattern Recognition, Abstraction) nhằm nhận diện, phân tích và khảo sát hướng giải quyết cho bài toán HOI Detection nêu trên
 
 ## POSTER PRESENTATION for POSTER SESSION
-    </h3>
-    <img align="center" src="./Poster_Fullsize.jpg">
+<img align="center" src="./Poster_Fullsize.jpg">
